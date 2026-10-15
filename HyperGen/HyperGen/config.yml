@@ -1,0 +1,4 @@
+data_dir: 'data'
+dataset_dir: 'dataset'
+dataset: 'NDC-classes'
+beta: 80000
